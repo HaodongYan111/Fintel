@@ -151,7 +151,7 @@ Regulatory-aligned ESG benchmarking system for European banks.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/fintel.git
+git clone https://github.com/HaodongYan111/fintel.git
 cd fintel
 
 # Install dependencies
